@@ -20,7 +20,6 @@ h1    /* Style à appliquer sur les titres h1 */
 h2     /* Style à appliquer sur les sous-titres h2 */
 {
   text-decoration: underline;
-  color: #FFFFFF;
 }
 p em  /* Mise en évidence */
 {
